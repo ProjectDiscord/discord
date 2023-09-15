@@ -3,7 +3,7 @@ name: Issue Report
 about: What is the issue about?
 title: ''
 labels: bug
-assignees: DuckoDas
+assignees: notaestheticallyducko
 
 ---
 
